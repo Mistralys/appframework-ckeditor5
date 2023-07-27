@@ -41,13 +41,6 @@ To generate the production file `build/ckeditor.js`:
 npm run build
 ```
 
-### Publish to framework
-
-Copy the contents of the `build` folder to the framework, at this location:
-
-```
-src/themes/default/js/markup-editor/ckeditor/build
-```
 
 [Application Framework]: https://github.com/Mistralys/application-framework
 [Online builder tool]: https://ckeditor.com/ckeditor-5/online-builder
