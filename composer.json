@@ -1,0 +1,12 @@
+{
+  "name": "mistralys/appframework-ckeditor5",
+  "description": "CKEditor5 build for the Application Framework's default markup editor.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sebastian Mordziol",
+      "email": "s.mordziol@mistralys.eu",
+      "role": "lead"
+    }
+  ]
+}
